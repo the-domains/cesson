@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CESSON 3.0 Sexy and Simple Marketing Agency]]></title>
         <description><![CDATA[CESSON 3.0 Sexy and Simple Marketing Agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cesson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 13:40:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 13:44:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cesson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94c6bcf-4bca-4e2a-aba4-dd28e662e6b1.jpg">]]></description>
+            <link>https://thegrid.ai/cesson/san-diego/index.html</link>
+            <guid isPermaLink="false">eab865f0-62e7-46cd-8e55-f032424e8b41</guid>
+            <pubDate>Tue, 24 May 2016 13:43:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc384c6b-5cc7-4031-b78c-c15ed54b17d1.jpg">]]></description>
-            <link>undefinedchicago/index.html</link>
+            <link>https://thegrid.ai/cesson/chicago/index.html</link>
             <guid isPermaLink="false">8fa13c58-98c8-4dc6-bf5c-997ddf43ad26</guid>
             <pubDate>Tue, 24 May 2016 13:39:58 GMT</pubDate>
         </item>
